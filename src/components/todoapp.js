@@ -5,7 +5,7 @@ import ConnectedTodoList from './todolist';
 import ConnectedNotification from './notification';
 
 const TodoApp = () => (
-  <div>
+  <div className="container">
     <ConnectedTodoFilter />
     <ConnectedTodoCreate />
     <ConnectedTodoList />
