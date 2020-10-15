@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# App.js wasnt used in this project
+App.js
+App.test.js
