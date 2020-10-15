@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## A Simple TODO app 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Redux](https://redux.js.org/) ,
+and was built primarily to familiarize with state management using the Redux library.
+
 
 ## Available Scripts
 
